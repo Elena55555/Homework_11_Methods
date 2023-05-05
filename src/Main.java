@@ -1,6 +1,7 @@
 import java.time.LocalDate;
 
 public class Main {
+
     public static void main(String[] args) {
         task1();
         task2();
@@ -93,6 +94,7 @@ public class Main {
         } else if (deliveryDistance > 100) {
             outputTheLineIfDistMore100();
         }
+
 
 
     }
